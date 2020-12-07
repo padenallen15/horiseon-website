@@ -1,5 +1,9 @@
 # Horiseon Social Solution Services
-Horiseon Social Solution Services provide users with a unique formula to take their online business platforms to the next level
+Horiseon Social Solution Services provide users with vital information to take their online business platform to the next level.
+
+# Screenshot
+Below is a screenshot of their website.
+![Alt text](/assets/images/Horiseon-demo.png)
 
 # Link
-Check out their website by clicking on the following link: 
+Check out their website by clicking on the following link: https://padenallen15.github.io/horiseon-website/
